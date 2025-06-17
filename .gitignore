@@ -1,0 +1,16 @@
+# PlatformIO
+.pio/
+
+# VS Code
+.vscode/
+
+# Archivos temporales y binarios
+*.bin
+*.elf
+*.hex
+*.pyc
+__pycache__/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
