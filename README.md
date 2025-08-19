@@ -25,3 +25,4 @@ El código se encuentra en los archivos `.ino`, `html` y `js`. Todo está docume
 ## 📅 Tiempo de desarrollo
 
 Este proyecto fue desarrollado en aproximadamente 3 meses como parte de un reto personal para mejorar mis habilidades en programación embebida e IoT.
+_______________________________________________________________________________________________________________________________________________________________________
